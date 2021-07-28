@@ -1,0 +1,6 @@
+INFO     lemon:basepage.py:172 往input元素-【登录页面_输入手机号】--输入值成功
+INFO     lemon:basepage.py:172 往input元素-【登录页面_输入密码】--输入值成功
+INFO     lemon:basepage.py:152 点击元素-【登录页面_登录按钮】--成功
+INFO     lemon:basepage.py:152 点击元素-【首页_抢投标】--成功
+INFO     lemon:basepage.py:172 往input元素-【投资页面_输入投资金额】--输入值成功
+INFO     lemon:basepage.py:98 获取元素-【投资页面_投标按钮提示】--文本成功

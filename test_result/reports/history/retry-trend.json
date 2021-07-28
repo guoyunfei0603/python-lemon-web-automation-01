@@ -1,0 +1,89 @@
+[ {
+  "buildOrder" : 14,
+  "reportUrl" : "http://127.0.0.1:8080/job/py31_web_project1/14/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 12,
+    "retry" : 1
+  }
+}, {
+  "buildOrder" : 13,
+  "reportUrl" : "http://127.0.0.1:8080/job/py31_web_project1/13/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 0,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 12,
+  "reportUrl" : "http://127.0.0.1:8080/job/py31_web_project1/12/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 0,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 11,
+  "reportUrl" : "http://127.0.0.1:8080/job/py31_web_project1/11/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 0,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "http://127.0.0.1:8080/job/py31_web_project1/10/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 0,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://127.0.0.1:8080/job/py31_web_project1/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 0,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 8,
+  "reportUrl" : "http://127.0.0.1:8080/job/py31_web_project1/8/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 0,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "http://127.0.0.1:8080/job/py31_web_project1/7/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 0,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "http://127.0.0.1:8080/job/py31_web_project1/6/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 12,
+    "retry" : 12
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "http://127.0.0.1:8080/job/py31_web_project1/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 12,
+    "retry" : 12
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "http://127.0.0.1:8080/job/py31_web_project1/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 12,
+    "retry" : 12
+  }
+} ]

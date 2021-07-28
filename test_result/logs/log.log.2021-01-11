@@ -1,0 +1,173 @@
+2021-01-11 00:23:43,695 - [basepage.py-->line:152] - INFO: 点击元素-【首页_抢投标】--成功
+2021-01-11 00:23:43,736 - [basepage.py-->line:172] - INFO: 往input元素-【投资页面_输入投资金额】--输入值成功
+2021-01-11 00:23:43,777 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_点击投标按钮】--成功
+2021-01-11 00:23:46,793 - [basepage.py-->line:38] - INFO: 等待-【投资页面_错误弹窗提示】-元素可见成功
+2021-01-11 00:23:46,803 - [basepage.py-->line:98] - INFO: 获取元素-【投资页面_错误弹窗提示】--文本成功
+2021-01-11 00:23:46,840 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_关闭错误弹窗提示】--成功
+2021-01-11 00:23:46,920 - [basepage.py-->line:172] - INFO: 往input元素-【投资页面_输入投资金额】--输入值成功
+2021-01-11 00:23:46,938 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_点击投标按钮】--成功
+2021-01-11 00:23:49,951 - [basepage.py-->line:38] - INFO: 等待-【投资页面_错误弹窗提示】-元素可见成功
+2021-01-11 00:23:49,961 - [basepage.py-->line:98] - INFO: 获取元素-【投资页面_错误弹窗提示】--文本成功
+2021-01-11 00:23:49,987 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_关闭错误弹窗提示】--成功
+2021-01-11 00:23:50,015 - [basepage.py-->line:172] - INFO: 往input元素-【投资页面_输入投资金额】--输入值成功
+2021-01-11 00:23:50,037 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_点击投标按钮】--成功
+2021-01-11 00:23:53,049 - [basepage.py-->line:38] - INFO: 等待-【投资页面_错误弹窗提示】-元素可见成功
+2021-01-11 00:23:53,059 - [basepage.py-->line:98] - INFO: 获取元素-【投资页面_错误弹窗提示】--文本成功
+2021-01-11 00:23:53,082 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_关闭错误弹窗提示】--成功
+2021-01-11 00:23:53,114 - [basepage.py-->line:172] - INFO: 往input元素-【投资页面_输入投资金额】--输入值成功
+2021-01-11 00:23:53,133 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_点击投标按钮】--成功
+2021-01-11 00:23:56,142 - [basepage.py-->line:38] - INFO: 等待-【投资页面_错误弹窗提示】-元素可见成功
+2021-01-11 00:23:56,152 - [basepage.py-->line:98] - INFO: 获取元素-【投资页面_错误弹窗提示】--文本成功
+2021-01-11 00:23:56,180 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_关闭错误弹窗提示】--成功
+2021-01-11 00:33:58,175 - [basepage.py-->line:172] - INFO: 往input元素-【登录页面_输入手机号】--输入值成功
+2021-01-11 00:33:58,236 - [basepage.py-->line:172] - INFO: 往input元素-【登录页面_输入密码】--输入值成功
+2021-01-11 00:33:58,272 - [basepage.py-->line:152] - INFO: 点击元素-【】--成功
+2021-01-11 00:34:43,526 - [basepage.py-->line:152] - INFO: 点击元素-【首页_抢投标】--成功
+2021-01-11 00:34:43,577 - [basepage.py-->line:172] - INFO: 往input元素-【投资页面_输入投资金额】--输入值成功
+2021-01-11 00:34:43,593 - [basepage.py-->line:98] - INFO: 获取元素-【投资页面_投标按钮提示】--文本成功
+2021-01-11 00:34:46,623 - [basepage.py-->line:172] - INFO: 往input元素-【投资页面_输入投资金额】--输入值成功
+2021-01-11 00:34:46,631 - [basepage.py-->line:98] - INFO: 获取元素-【投资页面_投标按钮提示】--文本成功
+2021-01-11 00:34:49,662 - [basepage.py-->line:172] - INFO: 往input元素-【投资页面_输入投资金额】--输入值成功
+2021-01-11 00:34:49,672 - [basepage.py-->line:98] - INFO: 获取元素-【投资页面_投标按钮提示】--文本成功
+2021-01-11 00:34:52,713 - [basepage.py-->line:172] - INFO: 往input元素-【投资页面_输入投资金额】--输入值成功
+2021-01-11 00:34:52,756 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_点击投标按钮】--成功
+2021-01-11 00:34:55,771 - [basepage.py-->line:38] - INFO: 等待-【投资页面_错误弹窗提示】-元素可见成功
+2021-01-11 00:34:55,782 - [basepage.py-->line:98] - INFO: 获取元素-【投资页面_错误弹窗提示】--文本成功
+2021-01-11 00:34:55,817 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_关闭错误弹窗提示】--成功
+2021-01-11 00:34:55,849 - [basepage.py-->line:172] - INFO: 往input元素-【投资页面_输入投资金额】--输入值成功
+2021-01-11 00:34:55,884 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_点击投标按钮】--成功
+2021-01-11 00:34:58,898 - [basepage.py-->line:38] - INFO: 等待-【投资页面_错误弹窗提示】-元素可见成功
+2021-01-11 00:34:58,908 - [basepage.py-->line:98] - INFO: 获取元素-【投资页面_错误弹窗提示】--文本成功
+2021-01-11 00:34:58,946 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_关闭错误弹窗提示】--成功
+2021-01-11 00:34:58,980 - [basepage.py-->line:172] - INFO: 往input元素-【投资页面_输入投资金额】--输入值成功
+2021-01-11 00:34:59,014 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_点击投标按钮】--成功
+2021-01-11 00:35:02,026 - [basepage.py-->line:38] - INFO: 等待-【投资页面_错误弹窗提示】-元素可见成功
+2021-01-11 00:35:02,037 - [basepage.py-->line:98] - INFO: 获取元素-【投资页面_错误弹窗提示】--文本成功
+2021-01-11 00:35:02,077 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_关闭错误弹窗提示】--成功
+2021-01-11 00:35:02,112 - [basepage.py-->line:172] - INFO: 往input元素-【投资页面_输入投资金额】--输入值成功
+2021-01-11 00:35:02,146 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_点击投标按钮】--成功
+2021-01-11 00:35:05,160 - [basepage.py-->line:38] - INFO: 等待-【投资页面_错误弹窗提示】-元素可见成功
+2021-01-11 00:35:05,170 - [basepage.py-->line:98] - INFO: 获取元素-【投资页面_错误弹窗提示】--文本成功
+2021-01-11 00:35:05,207 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_关闭错误弹窗提示】--成功
+2021-01-11 00:35:05,218 - [basepage.py-->line:117] - INFO: 获取元素-【投资页面_获取投资输入框的余额】--属性成功
+2021-01-11 00:35:05,262 - [basepage.py-->line:172] - INFO: 往input元素-【投资页面_输入投资金额】--输入值成功
+2021-01-11 00:35:05,293 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_点击投标按钮】--成功
+2021-01-11 00:35:29,157 - [basepage.py-->line:33] - ERROR: 等待-【投资页面_投资成功弹窗提示】-元素可见超时
+2021-01-11 00:35:29,157 - [basepage.py-->line:34] - ERROR: 'NoneType' object has no attribute 'is_displayed'
+Traceback (most recent call last):
+  File "D:\py31\git_code\py31_web_work\day12_页面封装投资功能实现\page\basepage.py", line 30, in wait_visibility_ele
+    EC.visibility_of_element_located(loc)
+  File "D:\py31\git_code\py31_web\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:\py31\git_code\py31_web\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "D:\py31\git_code\py31_web\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 148, in _element_if_visible
+    return element if element.is_displayed() == visibility else False
+AttributeError: 'NoneType' object has no attribute 'is_displayed'
+2021-01-11 22:51:48,145 - [basepage.py-->line:172] - INFO: 往input元素-【登录页面_输入手机号】--输入值成功
+2021-01-11 22:51:48,193 - [basepage.py-->line:172] - INFO: 往input元素-【登录页面_输入密码】--输入值成功
+2021-01-11 22:51:48,225 - [basepage.py-->line:152] - INFO: 点击元素-【】--成功
+2021-01-11 22:52:38,383 - [basepage.py-->line:152] - INFO: 点击元素-【首页_抢投标】--成功
+2021-01-11 22:52:38,434 - [basepage.py-->line:172] - INFO: 往input元素-【投资页面_输入投资金额】--输入值成功
+2021-01-11 22:52:38,451 - [basepage.py-->line:98] - INFO: 获取元素-【投资页面_投标按钮提示】--文本成功
+2021-01-11 22:52:41,487 - [basepage.py-->line:172] - INFO: 往input元素-【投资页面_输入投资金额】--输入值成功
+2021-01-11 22:52:41,495 - [basepage.py-->line:98] - INFO: 获取元素-【投资页面_投标按钮提示】--文本成功
+2021-01-11 22:52:44,531 - [basepage.py-->line:172] - INFO: 往input元素-【投资页面_输入投资金额】--输入值成功
+2021-01-11 22:52:44,540 - [basepage.py-->line:98] - INFO: 获取元素-【投资页面_投标按钮提示】--文本成功
+2021-01-11 22:52:47,572 - [basepage.py-->line:172] - INFO: 往input元素-【投资页面_输入投资金额】--输入值成功
+2021-01-11 22:52:47,607 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_点击投标按钮】--成功
+2021-01-11 22:52:50,622 - [basepage.py-->line:38] - INFO: 等待-【投资页面_错误弹窗提示】-元素可见成功
+2021-01-11 22:52:50,633 - [basepage.py-->line:98] - INFO: 获取元素-【投资页面_错误弹窗提示】--文本成功
+2021-01-11 22:52:50,663 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_关闭错误弹窗提示】--成功
+2021-01-11 22:52:50,701 - [basepage.py-->line:172] - INFO: 往input元素-【投资页面_输入投资金额】--输入值成功
+2021-01-11 22:52:50,732 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_点击投标按钮】--成功
+2021-01-11 22:52:53,747 - [basepage.py-->line:38] - INFO: 等待-【投资页面_错误弹窗提示】-元素可见成功
+2021-01-11 22:52:53,757 - [basepage.py-->line:98] - INFO: 获取元素-【投资页面_错误弹窗提示】--文本成功
+2021-01-11 22:52:53,797 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_关闭错误弹窗提示】--成功
+2021-01-11 22:52:53,833 - [basepage.py-->line:172] - INFO: 往input元素-【投资页面_输入投资金额】--输入值成功
+2021-01-11 22:52:53,864 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_点击投标按钮】--成功
+2021-01-11 22:52:56,874 - [basepage.py-->line:38] - INFO: 等待-【投资页面_错误弹窗提示】-元素可见成功
+2021-01-11 22:52:56,884 - [basepage.py-->line:98] - INFO: 获取元素-【投资页面_错误弹窗提示】--文本成功
+2021-01-11 22:52:56,909 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_关闭错误弹窗提示】--成功
+2021-01-11 22:52:56,944 - [basepage.py-->line:172] - INFO: 往input元素-【投资页面_输入投资金额】--输入值成功
+2021-01-11 22:52:56,977 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_点击投标按钮】--成功
+2021-01-11 22:52:59,988 - [basepage.py-->line:38] - INFO: 等待-【投资页面_错误弹窗提示】-元素可见成功
+2021-01-11 22:52:59,998 - [basepage.py-->line:98] - INFO: 获取元素-【投资页面_错误弹窗提示】--文本成功
+2021-01-11 22:53:00,040 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_关闭错误弹窗提示】--成功
+2021-01-11 22:53:00,061 - [basepage.py-->line:117] - INFO: 获取元素-【投资页面_获取投资输入框的余额】--属性成功
+2021-01-11 22:53:00,096 - [basepage.py-->line:172] - INFO: 往input元素-【投资页面_输入投资金额】--输入值成功
+2021-01-11 22:53:00,123 - [basepage.py-->line:152] - INFO: 点击元素-【投资页面_点击投标按钮】--成功
+2021-01-11 22:53:08,402 - [basepage.py-->line:33] - ERROR: 等待-【投资页面_投资成功弹窗提示】-元素可见超时
+2021-01-11 22:53:08,403 - [basepage.py-->line:34] - ERROR: 'NoneType' object has no attribute 'is_displayed'
+Traceback (most recent call last):
+  File "D:\py31\git_code\py31_web_work\day12_页面封装投资功能实现\page\basepage.py", line 30, in wait_visibility_ele
+    EC.visibility_of_element_located(loc)
+  File "D:\py31\git_code\py31_web\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:\py31\git_code\py31_web\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "D:\py31\git_code\py31_web\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 148, in _element_if_visible
+    return element if element.is_displayed() == visibility else False
+AttributeError: 'NoneType' object has no attribute 'is_displayed'
+2021-01-11 22:53:08,408 - [basepage.py-->line:187] - ERROR: 对-【投资页面_投资成功弹窗提示】--这个操作进行页面截图失败
+2021-01-11 22:53:08,408 - [basepage.py-->line:188] - ERROR: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.18363 x86_64)
+Traceback (most recent call last):
+  File "D:\py31\git_code\py31_web_work\day12_页面封装投资功能实现\page\basepage.py", line 30, in wait_visibility_ele
+    EC.visibility_of_element_located(loc)
+  File "D:\py31\git_code\py31_web\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:\py31\git_code\py31_web\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "D:\py31\git_code\py31_web\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 148, in _element_if_visible
+    return element if element.is_displayed() == visibility else False
+AttributeError: 'NoneType' object has no attribute 'is_displayed'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py31\git_code\py31_web_work\day12_页面封装投资功能实现\page\basepage.py", line 185, in page_save_screenshot
+    self.driver.save_screenshot(file_path)
+  File "D:\py31\git_code\py31_web\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1055, in save_screenshot
+    return self.get_screenshot_as_file(filename)
+  File "D:\py31\git_code\py31_web\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1032, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+  File "D:\py31\git_code\py31_web\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1064, in get_screenshot_as_png
+    return base64.b64decode(self.get_screenshot_as_base64().encode('ascii'))
+  File "D:\py31\git_code\py31_web\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1074, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)['value']
+  File "D:\py31\git_code\py31_web\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\py31\git_code\py31_web\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.18363 x86_64)
+
+2021-01-11 22:53:16,496 - [basepage.py-->line:172] - INFO: 往input元素-【登录页面_输入手机号】--输入值成功
+2021-01-11 22:53:16,574 - [basepage.py-->line:172] - INFO: 往input元素-【登录页面_输入密码】--输入值成功
+2021-01-11 22:53:16,617 - [basepage.py-->line:152] - INFO: 点击元素-【】--成功
+2021-01-11 22:53:37,874 - [basepage.py-->line:98] - INFO: 获取元素-【首页_我的账户】--文本成功
+2021-01-11 22:53:37,874 - [test_login.py-->line:39] - INFO: 用例--正常登录--执行通过！
+2021-01-11 22:53:59,121 - [basepage.py-->line:152] - INFO: 点击元素-【】--成功
+2021-01-11 22:53:59,427 - [basepage.py-->line:172] - INFO: 往input元素-【登录页面_输入手机号】--输入值成功
+2021-01-11 22:53:59,463 - [basepage.py-->line:172] - INFO: 往input元素-【登录页面_输入密码】--输入值成功
+2021-01-11 22:53:59,503 - [basepage.py-->line:152] - INFO: 点击元素-【】--成功
+2021-01-11 22:53:59,516 - [basepage.py-->line:38] - INFO: 等待-【登录页面_为空获取提示】-元素可见成功
+2021-01-11 22:53:59,529 - [basepage.py-->line:98] - INFO: 获取元素-【登录页面_为空获取提示】--文本成功
+2021-01-11 22:53:59,530 - [test_login.py-->line:66] - INFO: 用例--密码为空--执行通过！
+2021-01-11 22:53:59,752 - [basepage.py-->line:172] - INFO: 往input元素-【登录页面_输入手机号】--输入值成功
+2021-01-11 22:53:59,802 - [basepage.py-->line:172] - INFO: 往input元素-【登录页面_输入密码】--输入值成功
+2021-01-11 22:53:59,839 - [basepage.py-->line:152] - INFO: 点击元素-【】--成功
+2021-01-11 22:53:59,853 - [basepage.py-->line:38] - INFO: 等待-【登录页面_为空获取提示】-元素可见成功
+2021-01-11 22:53:59,866 - [basepage.py-->line:98] - INFO: 获取元素-【登录页面_为空获取提示】--文本成功
+2021-01-11 22:53:59,866 - [test_login.py-->line:66] - INFO: 用例--手机号为空--执行通过！
+2021-01-11 22:54:00,142 - [basepage.py-->line:172] - INFO: 往input元素-【登录页面_输入手机号】--输入值成功
+2021-01-11 22:54:00,196 - [basepage.py-->line:172] - INFO: 往input元素-【登录页面_输入密码】--输入值成功
+2021-01-11 22:54:00,238 - [basepage.py-->line:152] - INFO: 点击元素-【】--成功
+2021-01-11 22:54:00,361 - [basepage.py-->line:38] - INFO: 等待-【登录页面_获取toast弹窗提示】-元素可见成功
+2021-01-11 22:54:00,373 - [basepage.py-->line:98] - INFO: 获取元素-【登录页面_获取toast弹窗提示】--文本成功
+2021-01-11 22:54:00,374 - [test_login.py-->line:90] - INFO: 用例--密码错误--执行通过！
